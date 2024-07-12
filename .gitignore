@@ -1,0 +1,21 @@
+
+src/x86
+# Visual Studio 
+*.suo
+*.user
+*.sln.docstates
+*.obj
+*.pch
+*.tlog
+*.log
+*.scc
+*.exp
+*.ilk
+*.lastbuildstate
+vc100.pdb
+ipch
+*.sdf
+*.opensdf
+*.idb
+*.vcxproj*
+*.sln
